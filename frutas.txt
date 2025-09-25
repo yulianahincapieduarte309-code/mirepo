@@ -2,3 +2,5 @@ Manzana
 Banana
 Naranja
 Fresa
+Mango
+Durazno
